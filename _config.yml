@@ -23,9 +23,9 @@ exclude:
   - tailwind.config.js
   - yarn.lock
 
-theme: jekyll-theme-foursquare-church
+#theme: jekyll-theme-foursquare-church
 
 plugins:
- - jekyll-postcss
-#jekyll-feed
-## - jekyll-seo-tag
+  - jekyll-postcss
+  - jekyll-feed
+  - jekyll-seo-tag
