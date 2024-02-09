@@ -23,7 +23,7 @@ exclude:
   - tailwind.config.js
   - yarn.lock
 
-#theme: jekyll-theme-foursquare-church
+theme: jekyll-theme-foursquare-church
 
 plugins:
  - jekyll-postcss
