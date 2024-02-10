@@ -17,11 +17,12 @@ show_excerpts: false
 postcss:
   cache: false
 
-#exclude:
-#  - package.json
-#  - postcss.config.js
-#  - tailwind.config.js
-#  - yarn.lock
+exclude:
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
+  - jekyll-theme-foursquare-church.gemspec
 
 #theme: jekyll-theme-foursquare-church
 

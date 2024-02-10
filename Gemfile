@@ -3,6 +3,10 @@
 source "https://rubygems.org"
 gemspec
 
+gem 'rake-jekyll'
+gem 'jekyll'
+gem 'coderay'
+
 group :jekyll_plugins do
     gem 'jekyll-postcss'
     gem 'jekyll-archives'
