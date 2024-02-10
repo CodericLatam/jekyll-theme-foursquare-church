@@ -22,7 +22,7 @@ exclude:
   - yarn.lock
   - jekyll-theme-foursquare-church.gemspec
 
-#theme: jekyll-theme-foursquare-church
+theme: jekyll-theme-foursquare-church
 
 plugins:
   - jekyll-feed
