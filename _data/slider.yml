@@ -1,0 +1,15 @@
+- title: Slider Example One
+  sumary: Pop in a short description and you're ready to go!
+  button: Learn more
+  link: http://example.com
+  image: assets/images/sliders/slider_1.jpg
+- title: Slider Example Two
+  sumary: Pop in a short description and you're ready to go!
+  button: Button Text
+  link: http://example.com
+  image: assets/images/sliders/slider_2.jpg
+- title: Slider Example Three
+  sumary: Pop in a short description and you're ready to go!
+  button: Button Text
+  link: http://example.com
+  image: assets/images/sliders/slider_3.jpg

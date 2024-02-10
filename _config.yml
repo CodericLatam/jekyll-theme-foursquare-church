@@ -13,6 +13,28 @@ twitter_username: jekyllrb
 github_username:  jekyll
 rss: rss
 
+background: burlap # burlap, chalkboard, linen, wood
+map:
+  title: Visit Our Church
+  map_img: https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=570x240&maptype=roadmap&markers=color:blue%7Clabel:S%7C40.702147,-74.015794&markers=color:green%7Clabel:G%7C40.711614,-74.012318&markers=color:red%7Clabel:C%7C40.718217,-73.998284&key=YOUR_API_KEY&signature=YOUR_SIGNATURE
+
+service_times:
+  - sunday: 9:00 a.m. - 2:00 p.m.
+  - monday: 9:00 a.m. - 2:00 p.m.
+  - tuesday: 9:00 a.m. - 2:00 p.m.
+  - wednesday: 9:00 a.m. - 2:00 p.m.
+  - thursday: 9:00 a.m. - 2:00 p.m.
+  - friday: 9:00 a.m. - 2:00 p.m.
+  - saturday: 9:00 a.m. - 2:00 p.m.
+
+sliders:
+  width: 1170
+  height: 250
+  animation: fade # fade, slide, show
+  speed: 8.0 # 0.5 to 10.0 in seconds
+  delay: 0.5 # 0.5 to 10.0 in seconds
+  autoplay: true
+
 show_excerpts: false
 
 exclude:
